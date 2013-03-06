@@ -1,3 +1,5 @@
+# This is just an example for source control
+
 Quotes
 
 “Unless someone like you cares a whole awful lot,
