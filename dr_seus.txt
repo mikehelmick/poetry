@@ -1,4 +1,4 @@
-# This is just an example for source control
+# This is just an example for source control _and it is fun_
 
 Quotes
 
